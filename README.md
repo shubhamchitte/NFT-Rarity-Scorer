@@ -1,1 +1,2 @@
 # NFT-Rarity-Scorer
+Unleash the power of NFT rarity analysis with this Python script tailored for scalability. Import a CSV filled with contract addresses, and effortlessly obtain the rarity scores of NFT collections. The script dynamically sorts NFTs by their scores and creates individual CSV files for each contract. Dive into the world of blockchain rarity metrics and elevate your understanding of digital assets with the NFT Rarity Analyzer.
